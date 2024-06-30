@@ -16,6 +16,8 @@ console.log(id == anotherId);
 
 const bigNumber = 376353725246426383637463839n
 
+// Reference (Non Primitive)
+// Array, objects, fuctions
 const heroes = ["Iron Man", "Mahesh Babu", "Shah Rukh Khan"];
 let myObj = {
     name: "Faijan",
