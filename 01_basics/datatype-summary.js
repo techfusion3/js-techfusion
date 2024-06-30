@@ -27,3 +27,12 @@ const myFunction = function(){
     console.log("Hello World");
 }
 console.log(typeof heroes);
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (Primitive), Heap (Non-Primitive)
+let myYoutubename = "techfusion"
+let anothername = myYoutubename
+
+console.log(anothername);
+
